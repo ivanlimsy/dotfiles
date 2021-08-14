@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = inoiretblanc@gmail.com
+	name = Ivan Lim
